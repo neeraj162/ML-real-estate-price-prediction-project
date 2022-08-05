@@ -1,2 +1,1 @@
-# ML-real-estate-price-prediction-project
-This is a beginner project who are starting with machine learning and can learn a lot more about machine learning.. This project is explained in youtube channel named Codewithharry, check out his channel....
+
